@@ -8,24 +8,30 @@ Plese manually download datasets from official websites, including Office-31, Of
 ## Usage
 ### OPDA
 bash ./scripts/train_offh_fuz_OPDA.sh
+
 bash ./scripts/target_offh_fuz_OPDA.sh 
 
 bash ./scripts/train_off31_fuz_OPDA.sh
+
 bash ./scripts/target_off31_fuz_OPDA.sh 
 
 bash ./scripts/train_dnet_fuz_OPDA.sh
+
 bash ./scripts/target_dnet_fuz_OPDA.sh 
 
 ### OSDA:
 bash ./scripts/train_source_fuz_OSDA.sh
+
 bash ./scripts/train_target__fuz_OSDA.sh 
 
 ### PDA:
 bash ./scripts/train_source_fuz_PDA.sh
+
 bash ./scripts/train_target__fuz_PDA.sh 
 
 ### CLDA:
 bash ./scripts/train_source_fuz_CLDA.sh
+
 bash ./scripts/train_target__fuz_CLDA.sh 
 
 
